@@ -8,6 +8,7 @@ $2 \cdot r \cdot \pi$
 
 ### Алгоритамска шема
 
+<img width="1342" height="628" alt="Snimak ekrana 2025-11-27 150402" src="https://github.com/user-attachments/assets/bb59e7bb-2175-4da3-bf55-a77b7124366e" />
 
 
 ## Решење
