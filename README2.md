@@ -11,7 +11,7 @@ $2 \cdot r \cdot \pi$
 
 
 ##Решење
-
+```cs
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,7 +33,7 @@ namespace ConsoleApp11
         }
     }
 }
-
+```
 ###Тест примери
 
 Unesi poluprecnik kruga:
@@ -54,6 +54,6 @@ Press any key to close this window . . .
 
 |Редни број| Назив променљиве | Тип променљиве  |
 |----------|------------------|-----------------|
-|1.                `r`             `double`
-|2.                `O`             `double`
+|1.        |       `r`        |    `double`     |
+|2.        |       `O`        |    `double`     |
 
