@@ -37,7 +37,7 @@ namespace ConsoleApp11
 ```
 ### Тест примери
 
-Unesi poluprecnik kruga:
+```Unesi poluprecnik kruga:
 5
 
 Obim kruga je 31.4159265358979 cm
@@ -52,6 +52,7 @@ Obim kruga je 62.8318530717959 cm
 
 C:\Users\radlovacki-08\Desktop\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe (process 4376) exited with code 0 (0x0).
 Press any key to close this window . . .
+```
 
 ### Објекти
 
